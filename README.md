@@ -6,3 +6,4 @@
 - 🎨 I created an app called <a href="https://bit.ly/PALette">Palette Cam</a> 
 - 🍎 I really like SwiftUI
 - 🥌 I'm currently trying to build a Crokinole game in Unity!
+- 🐶 My dog's name is 'Billy', that's him on the left <--
