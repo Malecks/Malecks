@@ -1,5 +1,5 @@
 ## Hi! My name is Alex 👨‍💻 🎨 🇨🇦
-### I'm a Product Designer, Developer, and Illustrator from Toronto, Canada. (he / him)
+### I'm a Product Designer, Developer, and Illustrator from Canada. (he / him)
 
 - 👨‍🎨 Have a look at my portfolio here: <a href="https://alexmathers.com">alexmathers.com</a>
 - 📱 My day job is: Sr. Product Designer at <a href="https://shopify.com">Shopify</a>
