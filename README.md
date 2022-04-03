@@ -1,6 +1,3 @@
-## Hi! My name is Alex 👨‍💻 🎨 🇨🇦
-### I'm a Product Designer, Developer, and Illustrator from Canada. (he / him)
+### Hi! My name is Alex
 
-- 👨‍🎨 Have a look at my portfolio here: <a href="https://alexmathers.com">alexmathers.com</a>
-- 📱 My day job is: Sr. Product Designer at <a href="https://shopify.com">Shopify</a>
-- 🎨 I created an app called <a href="https://bit.ly/PALette">Palette Cam</a> 
+I'm a Senior Product Designer at <a href="https://shopify.com">Shopify</a>, where I focus on mobile design for entrepreneurs looking to start and grow their businesses. I built an app called <a href="bit.ly/PALette">Palette Cam</a>. I like anything and everything to do with digital art and creating interactive experiences.
